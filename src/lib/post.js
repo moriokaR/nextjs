@@ -80,5 +80,5 @@ export async function getPostData(id) {
     id,
     blogContentHTML,
     ...matterResult.data,
-  }
+  };
 }
